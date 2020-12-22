@@ -11,12 +11,12 @@ The project was created for Admins to register participants and safe them in Dat
 
 #### Login window
 
-[]
+[Login form](https://github.com/Urmatbek-312/JavaFXFinal/blob/master/images/Login%20form-%201.PNG)
 
 #### Register form
 
-[]()
+[](https://github.com/Urmatbek-312/JavaFXFinal/blob/master/images/Register%20form%20-%202.PNG)
 
 #### Database 
 
-[]()
+[](https://github.com/Urmatbek-312/JavaFXFinal/blob/master/images/Database%20form.PNG)
