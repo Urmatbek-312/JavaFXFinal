@@ -7,4 +7,4 @@ The project was created for Admins to register participants and safe them in Dat
 2. Begaliev Nursultan 
 
 #### Presentation
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/Urmatbek-312/JavaFXFinal/blob/master/images/image-login-form.PNG)](https://youtu.be/vt5fpE0bzSY)
