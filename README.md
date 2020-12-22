@@ -6,5 +6,5 @@ The project was created for Admins to register participants and safe them in Dat
 1. Nusubaliev Urmatbek
 2. Begaliev Nursultan 
 
-#### Presentation (It's just an image :)
+#### Presentation
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
