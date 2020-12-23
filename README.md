@@ -7,10 +7,10 @@ The project was created for Admins to register participants and safe them in Dat
 2. Begaliev Nursultan 
 
 
-#### Feedbacks
+### Feedbacks
 [Link to Google Drive](https://drive.google.com/drive/folders/1WmeyakobBE_fMWQqa7rcznVExqF1WFnm?usp=sharing)
 
-#### Presentation [Link to video](https://youtu.be/gOi2_r7J_rM)
+### Presentation [Link to video](https://youtu.be/gOi2_r7J_rM)
 [![Watch the video](https://github.com/Urmatbek-312/JavaFXFinal/blob/master/images/image-login-form.PNG)](https://youtu.be/gOi2_r7J_rM)
 
 #### Login window
